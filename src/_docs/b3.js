@@ -55,7 +55,7 @@
  * 
  * **Nodes:**
  *
- * - **Composite Nodes**: Sequence, Priority, MemSequence, MemPriority.
+ * - **Composite Nodes**: Sequence, Priority, MemSequence, MemPriority, Parallel.
  * - **Decorators**: Inverter, Limiter, MaxTime, Repeater, 
  *   RepeaterUntilFailure, RepeaterUntilSuccess.
  * - **Actions**: Succeeder, Failer, Error, Runner, Wait.
